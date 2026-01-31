@@ -179,7 +179,7 @@ export default function Home() {
               <div>
                 <p className="text-[var(--aqua)] font-medium mb-2">About Us</p>
                 <h2 className="text-3xl font-bold text-[var(--charcoal)] mb-6">
-                  10+ Years of Asian Market Experience
+                  20+ Years of Asian Market Experience
                 </h2>
                 <p className="text-[var(--charcoal)]/80 mb-4">
                   Founded on over a decade of hands-on experience in Asian
