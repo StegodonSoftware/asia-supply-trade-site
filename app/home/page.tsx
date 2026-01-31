@@ -28,7 +28,7 @@ const connectApps = [
 const year = new Date().getFullYear();
 
 export default function Home() {
-  return <ComingSoon />;
+  // return <ComingSoon />;
   return (
     <div className="min-h-screen bg-[var(--cream)]">
       <DiagonalWaveBackground />
